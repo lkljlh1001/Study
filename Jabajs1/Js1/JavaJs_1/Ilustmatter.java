@@ -4,7 +4,7 @@ public class Ilustmatter {
 
 	public static void main(String[] args) {
 		for(;;){
-			System.out.println("/");
+			System.out.println("/..");
 		}
 	}
 
